@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning All {MongoDB, ReactJs, AngularJs, Cp, DSA and cpp}
 - 💞️ I’m looking to collaborate for an open source projects.
 - 📫 However, if you have other request or question, don't hesitate to use my mail-id: itsindrajput@gmail.com
-- 🌐 http://portfolio4.epizy.com/Rishabh/Singh.html
+- 🌐 https://itsindrajput.netlify.app/
 
 <!---
 To become a successful expert in the field of "Full Stack Development" by channelizing my Front end and Back End knowledge and skills. 
