@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsindrajput&label=Profile%20views&color=0e75b6&style=flat" alt="itsindrajput" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsindrajput" alt="itsindrajput" /></a> </p>
+
 - 🔭 I’m currently working on [Taste Me Best](https://github.com/itsindrajput/TasteMeBest)
 
 - 🌱 I’m currently learning **DSA and MENR Stack Development**
@@ -21,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsindrajput" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsindrajput" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="itsindrajput" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18066477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18066477" height="30" width="40" /></a>
 <a href="https://fb.com/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsindrajput" height="30" width="40" /></a>
 <a href="https://instagram.com/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsindrajput" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/itsindrajput" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsindrajput" height="30" width="40" /></a>
@@ -35,3 +39,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/itsindrajput"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsindrajput" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsindrajput&show_icons=true&locale=en&layout=compact" alt="itsindrajput" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsindrajput&show_icons=true&locale=en" alt="itsindrajput" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsindrajput&" alt="itsindrajput" /></p>
