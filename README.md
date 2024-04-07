@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">Passionate and ambitious fresher specializing in Computer Science.</h3>
+<h3 align="center">Dynamic professional with a proven track record in revolutionizing the Software Industry at RailWorld India, blending innovative solutions with cutting-edge technology. Specializing in Computer Science, I bring a wealth of experience and a fervent drive to push boundaries and create impactful change.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsindrajput&label=Profile%20views&color=0e75b6&style=flat" alt="itsindrajput" /> </p>
 
-- 🔭 I’m currently working on [Taste Me Best](https://github.com/itsindrajput/TasteMeBest)
+- 🔭 I’m currently working on [Sunset Cafe App](https://github.com/itsindrajput/sunsetcafeapp)
 
 - 🌱 I’m currently learning **DSA and MENR Stack Development**
 
 - 👯 I’m looking to collaborate on [Pose Estimation](https://github.com/itsindrajput/PoseEstimation)
 
-- 👨‍💻 All of my projects are available at [https://itsindrajput.netlify.app/](https://itsindrajput.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://itsindrajput.netlify.app/](https://itsindrajput.netlify.app/html/projects.html))
 
-- 📝 I regularly write articles on [https://itsindrajput.blogspot.com/](https://itsindrajput.blogspot.com/)
+- 📝 I occasionally dedicate time to writing blogs on [https://itsindrajput.blogspot.com/](https://itsindrajput.blogspot.com/)
 
 - 💬 Ask me about **Html5, Css3, JavaScript, React.Js, Java, Data Structures**
 
