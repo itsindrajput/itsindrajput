@@ -5,15 +5,17 @@
 
 - 🔭 I’m currently working on [Sunset Cafe App](https://github.com/itsindrajput/sunsetcafeapp)
 
-- 🌱 I’m currently learning **DSA and MENR Stack Development**
+- 🌱 I’m currently learning **DSA and Java Backend Development**
 
 - 👯 I’m looking to collaborate on [Pose Estimation](https://github.com/itsindrajput/PoseEstimation)
 
 - 👨‍💻 All of my projects are available at [https://itsindrajput.netlify.app/](https://itsindrajput.netlify.app/html/projects.html))
 
-- 📝 I occasionally dedicate time to writing blogs on [https://itsindrajput.blogspot.com/](https://itsindrajput.blogspot.com/)
+- 📝 I occasionally dedicate time to writing blogs on
+--  [https://itsindrajput.hashnode.dev/](https://itsindrajput.hashnode.dev/)
+--  [https://itsindrajput.blogspot.com/](https://itsindrajput.blogspot.com/)
 
-- 💬 Ask me about **Html5, Css3, JavaScript, React.Js, Java, Data Structures**
+- 💬 Ask me about **Html5, Css3, JavaScript, React.Js, Java, Spring, Spring Boot and DSA**
 
 - 📫 How to reach me **itsindrajput@gmail.com**
 
