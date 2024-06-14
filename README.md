@@ -12,8 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://itsindrajput.netlify.app/](https://itsindrajput.netlify.app/html/projects.html))
 
 - 📝 I occasionally dedicate time to writing blogs on
---  [https://itsindrajput.hashnode.dev/](https://itsindrajput.hashnode.dev/)
---  [https://itsindrajput.blogspot.com/](https://itsindrajput.blogspot.com/)
+  - -  [https://itsindrajput.hashnode.dev/](https://itsindrajput.hashnode.dev/)
+  - -  [https://itsindrajput.blogspot.com/](https://itsindrajput.blogspot.com/)
 
 - 💬 Ask me about **Html5, Css3, JavaScript, React.Js, Java, Spring, Spring Boot and DSA**
 
