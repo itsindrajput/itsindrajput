@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">Dynamic professional with a proven track record in revolutionizing the Software Industry at RailWorld India, blending innovative solutions with cutting-edge technology. Specializing in Computer Science, I bring a wealth of experience and a fervent drive to push boundaries and create impactful change.</h3>
+<h3 align="center">Dynamic professional with a proven track record in revolutionizing the Software Industry, blending innovative solutions with cutting-edge technology. Specializing in Computer Science, I bring a wealth of experience and a fervent drive to push boundaries and create impactful change.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsindrajput&label=Profile%20views&color=0e75b6&style=flat" alt="itsindrajput" /> </p>
 
