@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsindrajput&label=Profile%20views&color=0e75b6&style=flat" alt="itsindrajput" /> </p>
 
-- 🔭 I’m currently working on [Sunset Cafe App](https://github.com/itsindrajput/sunsetcafeapp)
-
 - 🌱 I’m currently learning **DSA and Java Backend Development**
 
-- 👯 I’m looking to collaborate on [Pose Estimation](https://github.com/itsindrajput/PoseEstimation)
+- 👯 I’m looking to collaborate on [Task Exhibitor](https://github.com/itsindrajput/taskexhibitor)
 
 - 👨‍💻 All of my projects are available at [https://itsindrajput.netlify.app/](https://itsindrajput.netlify.app/html/projects.html))
 
