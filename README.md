@@ -1,27 +1,45 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">Dynamic professional with a proven track record in revolutionizing the Software Industry, blending innovative solutions with cutting-edge technology. Specializing in Computer Science, I bring a wealth of experience and a fervent drive to push boundaries and create impactful change.</h3>
+<h3 align="center">Full-Stack Developer | Educator | Problem Solver | Tech Blogger | Career Mentor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsindrajput&label=Profile%20views&color=0e75b6&style=flat" alt="itsindrajput" /> </p>
 
-- 🌱 I’m currently learning **DSA and Java Backend Development**
+---
 
-- 👯 I’m looking to collaborate on [Task Exhibitor](https://github.com/itsindrajput/taskexhibitor)
+### 🧑‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://itsindrajput.netlify.app/](https://itsindrajput.netlify.app/html/projects.html))
+🎓 Engineering graduate with 2+ years of experience in software development and academia.  
+👨‍🏫 Currently working as an Assistant Professor at Marwadi University, Rajkot.  
+💡 Passionate about solving real-world problems, building scalable apps, and mentoring the next-gen tech talent.  
+🧠 Solved 300+ coding problems across LeetCode, HackerRank, CodeChef, and GFG.  
+💬 Known for a strong problem-solving mindset and a commitment to excellence.
 
-- 📝 I occasionally dedicate time to writing blogs on
-  - [https://itsindrajput.hashnode.dev/](https://itsindrajput.hashnode.dev/)
-  - [https://itsindrajput.blogspot.com/](https://itsindrajput.blogspot.com/)
+---
 
-- 💬 Ask me about **Html5, Css3, JavaScript, React.Js, Java, Spring, Spring Boot and DSA**
+### 🚀 Tech Stack
 
-- 📫 How to reach me **itsindrajput@gmail.com**
+**Languages:** C, Python, Java, JavaScript, HTML5, CSS3, SQL, PHP  
+**Frameworks/Libraries:** React.js, Node.js, Express.js, Spring Boot, Redux, Bootstrap, Tailwind CSS  
+**Tools & Platforms:** Git, GitHub, VSCode, MySQL, MongoDB, Webpack, Babel, Figma, TensorFlow  
+**CS Fundamentals:** OOP, DSA, DBMS, Operating Systems, Networking
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PWVRWBiSGkksOd6BapIIoLPjv8K32TNQ/view?usp=sharing](https://drive.google.com/file/d/1PWVRWBiSGkksOd6BapIIoLPjv8K32TNQ/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I believe I have a good sense of humor.**
+### 👨‍💻 Active Projects & Interests
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 Currently learning **Data Structures & Algorithms** and **Java Backend Development**.
+- 🛠️ Weekend contributor to **[Inacademic](https://inacademic.com/)** — building full-stack features including job portal and compiler integration for an ed-tech platform.
+- 🧠 I share my learning journey and tech tips via blogs:
+  - [Hashnode](https://itsindrajput.hashnode.dev/)
+  - [Blogger](https://itsindrajput.blogspot.com/)
+- 👨‍💻 All my projects: [Portfolio](https://itsindrajput.netlify.app/html/projects.html)
+- 💬 Ask me about: **HTML, CSS, JS, React, Java, Spring Boot, Tailwind, DSA**
+- 📫 Reach me at: **itsindrajput@gmail.com**
+- 📄 [View My Resume](https://itsindrajput.netlify.app/html/aboutme)
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
 <a href="https://twitter.com/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsindrajput" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsindrajput" height="30" width="40" /></a>
