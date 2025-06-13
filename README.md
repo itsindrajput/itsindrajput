@@ -42,7 +42,14 @@
 
 <p align="left">
 <a href="https://itsindrajput.netlify.app/" target="blank">
-  <img align="center" src="https://www.svgrepo.com/show/327408/website.svg" alt="Portfolio Website" height="30" width="40" />
+  <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="25" cy="25" r="23" stroke="#000" stroke-width="2" fill="#fff"/>
+  <ellipse cx="25" cy="25" rx="14" ry="23" stroke="#000" stroke-width="2"/>
+  <ellipse cx="25" cy="25" rx="23" ry="8" stroke="#000" stroke-width="2"/>
+  <line x1="2" y1="25" x2="48" y2="25" stroke="#000" stroke-width="2"/>
+  <line x1="25" y1="2" x2="25" y2="48" stroke="#000" stroke-width="2"/>
+</svg>
+ 
 </a>
 <a href="https://linkedin.com/in/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsindrajput" height="30" width="40" /></a>
 <a href="https://twitter.com/itsindrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsindrajput" height="30" width="40" /></a>
