@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 🎓 Engineering graduate with 2+ years of experience in software development and academia.  
-👨‍🏫 Currently working a Technical Educator at ByteXL India Pvt Ltd at Chandigarh University Punjab.  
+👨‍🏫 I am currently working as a Technical Educator with ByteXL India Pvt. Ltd. at Chandigarh University in Punjab.
 💡 Passionate about solving real-world problems, building scalable apps, and mentoring the next-gen tech talent.  
 🧠 Solved 300+ coding problems across LeetCode, HackerRank, CodeChef, and GFG.  
 💬 Known for a strong problem-solving mindset and a commitment to excellence.
