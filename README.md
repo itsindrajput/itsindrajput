@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">Full-Stack Developer | Educator | Problem Solver | Tech Blogger | Career Mentor</h3>
+<h3 align="center">	Full Stack Engineer | Technical Educator | Problem Solver | Tech Blogger | Career Mentor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsindrajput&label=Profile%20views&color=0e75b6&style=flat" alt="itsindrajput" /> </p>
 
@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 🎓 Engineering graduate with 2+ years of experience in software development and academia.  
-👨‍🏫 Currently working as an Assistant Professor at Marwadi University, Rajkot.  
+👨‍🏫 Currently working a Technical Educator at ByteXL India Pvt Ltd at Chandigarh University Punjab.  
 💡 Passionate about solving real-world problems, building scalable apps, and mentoring the next-gen tech talent.  
 🧠 Solved 300+ coding problems across LeetCode, HackerRank, CodeChef, and GFG.  
 💬 Known for a strong problem-solving mindset and a commitment to excellence.
@@ -18,7 +18,7 @@
 ### 🚀 Tech Stack
 
 **Languages:** C, Python, Java, JavaScript, HTML5, CSS3, SQL, PHP  
-**Frameworks/Libraries:** React.js, Node.js, Express.js, Spring Boot, Redux, Bootstrap, Tailwind CSS  
+**Frameworks/Libraries:** React.js, Spring, Spring Boot, Redux, Bootstrap, Tailwind CSS  
 **Tools & Platforms:** Git, GitHub, VSCode, MySQL, MongoDB, Webpack, Babel, Figma, TensorFlow  
 **CS Fundamentals:** OOP, DSA, DBMS, Operating Systems, Networking
 
