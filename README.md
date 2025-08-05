@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
 <h3 align="center">	Full Stack Engineer | Technical Educator | Problem Solver | Tech Blogger | Career Mentor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsindrajput&label=Profile%20views&color=0e75b6&style=flat" alt="itsindrajput" /> </p>
-
 ---
 
 ### 🧑‍💻 About Me
