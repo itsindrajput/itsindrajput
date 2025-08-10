@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">	Full Stack Engineer | Technical Educator | Problem Solver | Tech Blogger | Career Mentor</h3>
+<h3 align="center">	MTS@ByteXL | Full Stack Engineer | Technical Educator | Problem Solver | Career Mentor</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 🎓 Engineering graduate with 2+ years of experience in software development and academia.  
 👨‍🏫 I am currently working as a Technical Educator with ByteXL India Pvt. Ltd. at Chandigarh University in Punjab.  
 💡 Passionate about solving real-world problems, building scalable apps, and mentoring the next-gen tech talent.  
-🧠 Solved 300+ coding problems across LeetCode, HackerRank, CodeChef, and GFG.  
+🧠 Solved 400+ coding problems across LeetCode, HackerRank, CodeChef, and GFG.  
 💬 Known for a strong problem-solving mindset and a commitment to excellence.
 
 ---
@@ -79,8 +79,3 @@
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
-
----
-
-### ☕ Support
-<p><a href="https://www.buymeacoffee.com/itsindrajput"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsindrajput" /></a></p>
