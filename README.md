@@ -24,15 +24,14 @@
 
 ### 👨‍💻 Active Projects & Interests
 
-- 🌱 Currently learning **Data Structures & Algorithms** and **Java Backend Development**.
-- 🛠️ Weekend contributor to **[Inacademic](https://inacademic.com/)** — building full-stack features including job portal and compiler integration for an ed-tech platform.
+- 🌱 Currently learning **Agentic AI** and **Java Backend Development**.
+- 🛠️ Weekend contributor to **[Tiiron](https://www.tiiron.com/)** — building full-stack features including AI Powered LMS and compiler integration for an ed-tech platform.
 - 🧠 I share my learning journey and tech tips via blogs:
   - [Hashnode](https://itsindrajput.hashnode.dev/)
   - [Blogger](https://itsindrajput.blogspot.com/)
 - 👨‍💻 All my projects: [Portfolio](https://itsindrajput.netlify.app/html/projects.html)
-- 💬 Ask me about: HTML, CSS, JS, React, Python, Java, Spring Boot, Tailwind, DSA
+- 💬 Ask me about: HTML, CSS, JS, React, Python, Java, Spring Boot, MySql, Material UI and DSA
 - 📫 Reach me at: **itsindrajput@gmail.com**
-- 📄 [View My Resume](https://itsindrajput.netlify.app/html/aboutme)
 
 ---
 
