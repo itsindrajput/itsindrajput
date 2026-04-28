@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">	MTS@ByteXL | Full Stack Engineer | Technical Educator | Problem Solver | Career Mentor</h3>
+<h3 align="center">	Co-Founder at Tiiron Technologies | Full Stack AI Engineer | Technical Educator | Problem Solver | Career Mentor</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-🎓 Engineering graduate with 2+ years of experience in software development and academia.  
-👨‍🏫 I am currently working as a Technical Educator with ByteXL India Pvt. Ltd. at Chandigarh University in Punjab.  
+🎓 Engineering graduate with 3+ years of experience in software development and academia.  
+👨‍🏫 I am currently working as a Technical Trainer at MM(DU) in Haryana.
 💡 Passionate about solving real-world problems, building scalable apps, and mentoring the next-gen tech talent.  
 🧠 Solved 400+ coding problems across LeetCode, HackerRank, CodeChef, and GFG.  
 💬 Known for a strong problem-solving mindset and a commitment to excellence.
@@ -15,7 +15,7 @@
 
 ### 🚀 Tech Stack
 
-**Languages:** C, Python, Java, JavaScript, HTML5, CSS3, SQL, PHP  
+**Languages:** C, C++, Python, Java, JavaScript, HTML5, CSS3, SQL, PHP  
 **Frameworks/Libraries:** React.js, Spring, Spring Boot, Redux, Bootstrap, Tailwind CSS  
 **Tools & Platforms:** Git, GitHub, VSCode, MySQL, MongoDB, Webpack, Babel, Figma, TensorFlow  
 **CS Fundamentals:** OOP, DSA, DBMS, Operating Systems, Networking
@@ -25,12 +25,12 @@
 ### 👨‍💻 Active Projects & Interests
 
 - 🌱 Currently learning **Agentic AI** and **Java Backend Development**.
-- 🛠️ Weekend contributor to **[Tiiron](https://www.tiiron.com/)** — building full-stack features including AI Powered LMS and compiler integration for an ed-tech platform.
+- 🛠️ Passionate about teaching code, building systems that can scale, and shaping careers. Redefining how technology is learned, built, and applied through **[Tiiron Technologies Pvt. Ltd.](https://tiirontechnologies.com/)*
 - 🧠 I share my learning journey and tech tips via blogs:
   - [Hashnode](https://itsindrajput.hashnode.dev/)
   - [Blogger](https://itsindrajput.blogspot.com/)
 - 👨‍💻 All my projects: [Portfolio](https://itsindrajput.netlify.app/html/projects.html)
-- 💬 Ask me about: HTML, CSS, JS, React, Python, Java, Spring Boot, MySql, Material UI and DSA
+- 💬 Ask me about: JS, React, Python, Java, Spring Boot, MySql, Material UI and DSA
 - 📫 Reach me at: **itsindrajput@gmail.com**
 
 ---
