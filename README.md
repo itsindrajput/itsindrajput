@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 🎓 Engineering graduate with 3+ years of experience in software development and academia.  
-👨‍🏫 I am currently working as a Technical Trainer at MM(DU) in Haryana.
+👨‍🏫 I am currently working as a Technical Trainer at MM(DU) in Haryana.<br/>
 💡 Passionate about solving real-world problems, building scalable apps, and mentoring the next-gen tech talent.  
 🧠 Solved 400+ coding problems across LeetCode, HackerRank, CodeChef, and GFG.  
 💬 Known for a strong problem-solving mindset and a commitment to excellence.
