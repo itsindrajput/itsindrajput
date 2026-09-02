@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">	Co-Founder at Tiiron Technologies | Full Stack AI Engineer | Technical Educator | Career Mentor</h3>
+<h3 align="center">	Founder at Tiiron Technologies | Full Stack AI Engineer | Technical Educator | Career Mentor</h3>
 
 ---
 
